@@ -1,0 +1,10 @@
+[package]
+name = "easy_discord_bot"
+version = "0.0.1"
+authors = ["sovietbehemoth"]
+edition = "2018"
+
+[dependencies]
+websocket = "0.26.2"
+sdl2 = "0.34.5"
+json = "0.11.13"
